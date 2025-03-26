@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "name": "personal-diary",
+  "version": "1.0.0",
+  "description": "## Краткая инструкция по развертыванию на GitHub Pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
